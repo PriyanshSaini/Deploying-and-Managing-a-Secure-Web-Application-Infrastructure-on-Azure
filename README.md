@@ -1,17 +1,17 @@
 # Azure Static Website Project
 
-This project demonstrates how to deploy a static HTML + CSS website using **Azure Storage Static Website Hosting** under the Azure Free Tier.
+This project demonstrates deploying a static HTML + CSS website using **Azure Storage Static Website Hosting** under the Azure Free Tier.
 
 ## ✅ Project Features
 - Host a professional static website using Azure Blob Storage
 - HTML5 and CSS3 custom layout
-- Azure Metrics Monitoring (without alerts)
+- Azure Metrics Monitoring 
 - Cost-efficient, reliable deployment using Azure free services
 
 ## 📦 Technologies Used
 - Microsoft Azure (Storage Account, Static Website)
 - HTML5, CSS3
-- Azure Monitor (for metrics only)
+- Azure Monitor 
 
 ## 📁 File Structure
 ```
@@ -22,10 +22,8 @@ azure_static_website_project/
 ```
 
 ## 🔗 Live Website
-[Visit Live Site](https://yourstorageaccount.z13.web.core.windows.net/) *(Replace with actual URL)*
+[Visit Live Site](https://mywebapp123.z13.web.core.windows.net/) 
 
-## 📸 Screenshots
-Add your Azure Portal screenshots here (Storage Setup, Static Site Enabled, File Upload)
 
 ## 🚀 How to Deploy This
 1. Create Azure Storage Account
